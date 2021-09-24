@@ -1,0 +1,55 @@
+{
+  "data": [
+    {
+      "name": "Beras Ketan",
+      "ingredients": "Rp. 98.000",
+      "steps":"Beras Ketan berkualitas, hanya di khusnu.mart",
+      "image": "https://www.nusabali.com/article_images/19084/harga-melonjak-beras-ketan-tak-laku-800-2017-09-19-164012_0.jpg",
+      "lname": "Mawar",
+      "lprice":"Rp. 50.000.000",
+      "lurl": "https://i.postimg.cc/WDhK7417/rog.jpg",
+      "ketlp":"Memiliki fitur yang beragam"
+    },
+    {
+      "name": "Beras Merah",
+      "ingredients": "Rp. 145.000",
+      "steps":" Beras Merah berkualitas, hanya di khusnu.mart",
+      "image": "https://cdn1-production-images-kly.akamaized.net/OVw-AOAopHepvprB27DuGWrLzFE=/640x360/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/2866495/original/076181900_1564382482-iStock-517235679.jpg",
+      "lname": "Melati",
+      "lprice":"Rp. 8.000.000",
+      "lurl": "https://i.postimg.cc/0bnBRS6f/asus.png",
+      "ketlp":"Memiliki fitur yang beragam"
+    },
+    {
+      "name": "Beras Putih",
+      "ingredients": "Rp. 108.000",
+      "steps":"Beras Putih gurih, enak, nikmat dan berkualitas, hanya di khusnu.mart",
+      "image": "https://www.sfidn.com/article/lib/upload/images/Artikel/Fitness/sfidn-beras-putih-merah-hitam-mana-yang-lebih-sehat1.png",
+      "lname": "Anggrek",
+      "lprice":"Rp. 4.000.000",
+      "lurl": "https://i.postimg.cc/06MvPc90/lenovolepi.jpg",
+      "ketlp":"Memiliki fitur yang beragam"
+    },
+    {
+      "name": "Beras Hitam",
+      "ingredients": "Rp. 130.000",
+      "steps":"Bosen dengan warna beras yang itu itu aja disini ada beras hitam lhoo gas beli, hanya di khusnu.mart",
+      "image": "https://woop.sgp1.cdn.digitaloceanspaces.com/woop/storage/20190912/134541-manfaat-beras-hitam-webp-large.jpg",
+      "lname": "lele",
+      "lprice":"Rp. 5.000.000",
+      "lurl": "https://i.postimg.cc/3WgKkSmL/lg.jpg",
+      "ketlp":"Memiliki fitur yang beragam"
+    },
+    {
+      "name": "Beras Coklat",
+      "ingredients": "Rp. 500.000",
+      "steps":"Yang suka coklat gas merapat beli beras coklatnya, hanya di khusnu.mart",
+      "image": "https://asset.kompas.com/crops/QM3DLbRmnWfG3NNLDwa-tHWL3uE=/0x0:1000x667/750x500/data/photo/2019/11/02/5dbcfdaeabfc3.jpg",
+      "lname": "Ayam",
+      "lprice":"Rp. 4.500.000",
+      "lurl": "https://i.postimg.cc/Wd4jfsKK/acer.jpg",
+      "ketlp":"Memiliki fitur yang beragam"
+    }
+    
+  ]
+}
